@@ -1,2 +1,3 @@
 # OPeNDAP-API-
-Extract Ocean Product from Copernicus Marine Service 
+
+This tutorial is designed to show how to access and download Ocean Products from Copernicus Marine Service as GeoTIFF using OPeNDAP API and CAS SSO. 
