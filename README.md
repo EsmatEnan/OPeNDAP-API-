@@ -9,4 +9,4 @@ Extracted Variable: Sea Level Anomaly
 Python Packages Required: matplotlib, xarray, rioxarray, pydap, netCDF4, rasterio
 
 
-#### Thanks to CMS (Copernicus Marine Service) Help Centre ###
+#### Thanks to CMS (Copernicus Marine Service) Help Centre. ###
